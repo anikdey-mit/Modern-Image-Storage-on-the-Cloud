@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install dependencies
+
+In the project directory, run `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -62,6 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+In a nutshell, run `npm run build`, then copy the files to AWS EC2 instance where nginx is setup. 
 
 ### `npm run build` fails to minify
 
