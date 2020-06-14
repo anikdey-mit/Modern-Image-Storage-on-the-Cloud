@@ -5,4 +5,4 @@ opencv-python
 pybase64
 
 Above packages can be downloaded as zip file from
-s3://nad123/package.zip
+https://nad123.s3.amazonaws.com/package.zip
