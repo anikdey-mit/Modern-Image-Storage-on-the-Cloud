@@ -1,0 +1,8 @@
+numpy
+Pillow
+six
+opencv-python
+pybase64
+
+Above packages can be downloaded as zip file from
+s3://nad123/package.zip
