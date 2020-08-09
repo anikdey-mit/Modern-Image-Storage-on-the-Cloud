@@ -1,3 +1,5 @@
+This project aims at building a cloudified online system that allows users to store the images and retrieve the images based on the auto-generated tags. A serverless application was designed that allows the client to upload their images to public cloud storage. Upon the image upload, the application automatically tags the image with the type of objects detected in it, for example, person, car, etc. Later on, clients can query images based on the type of objects in the images. To this end, the application provides users with a list of URLs for images that include specific queried objects.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Install dependencies
